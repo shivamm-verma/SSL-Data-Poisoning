@@ -85,7 +85,7 @@ Mean Attack Success Rate across architectures (from `results/grid_summary.csv`):
 - Single seed per configuration; no confidence intervals yet.
 
 ## Authors
-Shivam Verma · Nikhil Kumar · Simerjeet Singh — *[Institution / course / year]*
+Shivam Verma · Nikhil Kumar · Shivam Singh · Simerjeet Singh — *[Maharaja Surajmal Institute of Technology, Department of Computer Science and Engineering, 2027]*
 
 ## License
 MIT — see `LICENSE`.
